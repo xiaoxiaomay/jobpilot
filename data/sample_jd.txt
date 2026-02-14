@@ -1,0 +1,30 @@
+Senior Data Scientist
+Lululemon — Vancouver, BC
+
+About the Role:
+We are looking for a Senior Data Scientist to join our Analytics & Data Science team. You will partner with cross-functional teams to develop machine learning models and data-driven solutions that improve customer experiences and optimize business operations.
+
+What You'll Do:
+- Design, develop, and deploy machine learning models to solve complex business problems including customer segmentation, recommendation systems, demand forecasting, and pricing optimization
+- Conduct A/B testing and causal inference analysis to measure the impact of new features and business initiatives
+- Build and maintain scalable data pipelines and ML workflows using Python, SQL, and cloud-based tools
+- Create compelling data visualizations and dashboards to communicate insights to stakeholders
+- Collaborate with product managers, engineers, and business leaders to define metrics, prioritize projects, and drive data-informed decisions
+- Mentor junior data scientists and analysts, fostering a culture of analytical rigor
+
+What You'll Bring:
+- Master's degree in Computer Science, Statistics, Mathematics, or a related field
+- 5+ years of experience in data science, machine learning, or a related quantitative field
+- Strong proficiency in Python (pandas, NumPy, scikit-learn) and SQL
+- Experience with deep learning frameworks (TensorFlow or PyTorch)
+- Hands-on experience with A/B testing, causal inference, and statistical modeling
+- Experience with cloud platforms (AWS, GCP, or Azure)
+- Proficiency with data visualization tools (Tableau, Looker, or similar)
+- Excellent communication skills with the ability to translate complex findings for non-technical audiences
+- Experience with time series forecasting and NLP is a plus
+- Experience with Snowflake, dbt, or Airflow is a plus
+
+What We Offer:
+- Competitive salary range: $130,000 - $170,000 CAD
+- Comprehensive benefits and employee wellness program
+- Product discount and fitness perks

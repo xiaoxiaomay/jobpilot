@@ -1,0 +1,26 @@
+# Environment & secrets
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Personal data (do NOT push)
+data/master_profile.json
+data/jobs.db
+
+# Generated output files
+output/
+*.docx
+*.xlsx
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+
+# Cleanup script (not needed in repo)
+cleanup.py

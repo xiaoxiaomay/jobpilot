@@ -1,0 +1,51 @@
+{
+    "search_queries": [
+        "data scientist",
+        "senior data scientist",
+        "machine learning engineer",
+        "AI consultant",
+        "product analyst",
+        "data analyst",
+        "applied scientist",
+        "ML engineer",
+        "data scientist cybersecurity",
+        "NLP engineer"
+    ],
+    "location": "Vancouver, BC, Canada",
+    "distance_miles": 30,
+    "job_type": "fulltime",
+    "results_per_query": 25,
+    "sites": ["linkedin", "indeed", "glassdoor", "zip_recruiter"],
+    "hours_old": 72,
+    "country": "Canada",
+    "exclude_keywords": [
+        "intern", "internship", "co-op", "coop",
+        "director", "vp", "vice president",
+        "staff engineer", "principal",
+        "french only"
+    ],
+    "must_include_keywords": [],
+    "min_salary": 70000,
+    "target_noc_codes": {
+        "21211": "Data Scientists",
+        "21220": "Cybersecurity Specialists",
+        "21221": "Business Systems Specialists",
+        "21223": "Database Analysts and Data Administrators",
+        "21231": "Software Engineers and Designers",
+        "20012": "Computer and Information Systems Managers"
+    },
+    "company_watchlist": [
+        "https://www.lululemon.com/careers",
+        "https://www.hootsuite.com/about/careers",
+        "https://www.clio.com/about/careers/",
+        "https://www.telus.com/en/about/careers",
+        "https://bchydro.com/careers.html",
+        "https://jobs.rbc.com/ca/en",
+        "https://jobs.td.com/en-CA/",
+        "https://www.amazon.jobs/en/locations/vancouver-canada",
+        "https://careers.microsoft.com/",
+        "https://www.metacareers.com/"
+    ],
+    "wellfound_search_url": "https://wellfound.com/role/r/data-scientist/vancouver",
+    "notes": "Edit this file to customize your job search. Re-run job_scraper.py after changes."
+}
