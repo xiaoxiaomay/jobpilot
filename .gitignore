@@ -24,3 +24,4 @@ Thumbs.db
 
 # Cleanup script (not needed in repo)
 cleanup.py
+reference/master_profile.json

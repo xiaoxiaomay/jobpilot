@@ -1,0 +1,47 @@
+{
+    "search_queries": [
+        "data scientist",
+        "data analyst",
+        "product analyst",
+        "machine learning",
+        "product manager data",
+        "technical product manager",
+        "product manager AI",
+        "product manager analytics",
+        "business analyst data",
+        "analytics manager",
+        "insights analyst",
+        "BI analyst",
+        "business intelligence analyst",
+        "strategy consultant",
+        "management consultant data",
+        "data strategy",
+        "AI consultant",
+        "analytics consultant"
+    ],
+    "location": "Vancouver, BC, Canada",
+    "distance_miles": 50,
+    "job_type": "fulltime",
+    "results_per_query": 25,
+    "sites": ["linkedin", "indeed", "glassdoor", "zip_recruiter"],
+    "hours_old": 72,
+    "country": "Canada",
+    "exclude_keywords": [
+        "intern", "internship", "co-op", "coop",
+        "director", "vp", "vice president",
+        "data engineer", "software engineer", "ml engineer",
+        "machine learning engineer", "backend", "frontend",
+        "full stack", "devops", "sre", "platform engineer"
+    ],
+    "must_include_keywords": [],
+    "min_salary": 70000,
+    "target_noc_codes": {
+        "21211": "Data Scientists",
+        "21220": "Cybersecurity Specialists",
+        "21221": "Business Systems Specialists",
+        "21223": "Database Analysts and Data Administrators",
+        "21231": "Software Engineers and Designers",
+        "20012": "Computer and Information Systems Managers",
+        "11201": "Professional Occupations in Business Management Consulting"
+    }
+}
